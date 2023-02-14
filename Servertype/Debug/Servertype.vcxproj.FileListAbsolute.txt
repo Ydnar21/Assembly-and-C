@@ -1,0 +1,2 @@
+C:\Users\randy\source\repos\Servertype\Debug\Servertype.exe
+C:\Users\randy\source\repos\Servertype\Debug\Servertype.pdb

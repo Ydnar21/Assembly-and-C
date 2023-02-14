@@ -1,0 +1,2 @@
+C:\Users\randy\source\repos\Learning\Debug\Learning.exe
+C:\Users\randy\source\repos\Learning\Debug\Learning.pdb
