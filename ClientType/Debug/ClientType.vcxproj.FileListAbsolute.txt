@@ -1,0 +1,2 @@
+C:\Users\randy\source\repos\ClientType\Debug\ClientType.exe
+C:\Users\randy\source\repos\ClientType\Debug\ClientType.pdb
