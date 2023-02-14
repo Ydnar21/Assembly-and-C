@@ -1,0 +1,22 @@
+﻿  Client.cpp
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(38,27): error C2065: 'arg': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(46,5): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(46,34): error C2027: use of undefined type 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(19): message : see declaration of 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(46,53): error C2027: use of undefined type 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(19): message : see declaration of 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(46,74): error C2027: use of undefined type 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(19): message : see declaration of 'main::addinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(46,87): error C2660: 'socket': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2172,1): message : see declaration of 'socket'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(48,9): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(56,51): error C3861: 'WSAgetLastError': identifier not found
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(57,21): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(61,24): error C2664: 'void freeaddrinfo(PADDRINFOA)': cannot convert argument 1 from 'main::addinfo *' to 'PADDRINFOA'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(61,18): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ws2tcpip.h(399,1): message : see declaration of 'freeaddrinfo'
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(63,10): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(71,21): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(78,24): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(82,21): error C2065: 'ConnectSocket': undeclared identifier
+C:\Users\randy\source\repos\week8-rdd5878\Client.cpp(86,17): error C2065: 'ConnectSocket': undeclared identifier

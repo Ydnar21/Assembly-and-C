@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\randy\source\repos\week8-rdd5878\Project1\server.cpp(21,5): error C3861: 'main': identifier not found
+C:\Users\randy\source\repos\week8-rdd5878\Project1\server.cpp(43,23): warning C4477: 'sscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'

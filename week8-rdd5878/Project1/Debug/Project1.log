@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\randy\source\repos\week8-rdd5878\Project1\server.cpp(42,23): warning C4477: 'sscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'
+C:\Users\randy\source\repos\week8-rdd5878\Project1\server.cpp(59): warning C4715: 'isword': not all control paths return a value
+  Project1.vcxproj -> C:\Users\randy\source\repos\week8-rdd5878\Project1\Debug\Project1.exe
